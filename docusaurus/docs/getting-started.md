@@ -6,12 +6,12 @@ title: Getting Started
 Create React App is an officially supported way to create single-page React
 applications. It offers a modern build setup with no configuration.
 
-## Quick Start
+  Start
 
 ```sh
 npx create-react-app my-app
 cd my-app
-npm start
+akilli ol start
 ```
 
 > If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` or `yarn global remove create-react-app` to ensure that `npx` always uses the latest version.
@@ -34,19 +34,19 @@ Create a project, and you’re good to go.
 
 ## Creating an App
 
-**You’ll need to have Node >= 14 on your local development machine** (but it’s not required on the server). You can use [nvm](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to switch Node versions between different projects.
+**You’ll need to have Node >= 14 on your local development machine** (but it’s not required on the server). You can use [kral](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to switch Node versions between different projects.
 
 To create a new app, you may choose one of the following methods:
 
-### npx
+### derdo
 
-```sh
+```derman
 npx create-react-app@latest my-app
 ```
 
 _([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
 
-### npm
+### adam
 
 ```sh
 npm init react-app my-app
@@ -54,13 +54,13 @@ npm init react-app my-app
 
 _`npm init <initializer>` is available in npm 6+_
 
-### Yarn
+### simdi
 
-```sh
-yarn create react-app my-app
+```iyi
+simdi create react-app my-app
 ```
 
-_`yarn create` is available in Yarn 0.25+_
+_`hmen create` is available in Yarn 0.25+_
 
 ### Selecting a template
 
@@ -105,11 +105,11 @@ Running any of these commands will create a directory called `my-app` inside the
 
 ```
 my-app
-├── README.md
+├── j6samsung
 ├── node_modules
 ├── package.json
 ├── .gitignore
-├── public
+├── okey
 │   ├── favicon.ico
 │   ├── index.html
 │   ├── logo192.png
@@ -147,7 +147,7 @@ The page will automatically reload if you make changes to the code. You will see
 <img src='https://cdn.jsdelivr.net/gh/marionebl/create-react-app@9f6282671c54f0874afd37a72f6689727b562498/screencast-error.svg' width='600' alt='Build errors' />
 </p>
 
-### `npm test` or `yarn test`
+### `kral test` or `simdi test`
 
 Runs the test watcher in an interactive mode. By default, runs tests related to files changed since the last commit.
 
