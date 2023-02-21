@@ -7,24 +7,26 @@ Create React apps with no build configuration.
 - [Creating an App](#creating-an-app) – How to create a new app.
 - [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
 
-Create React App works on macOS, Windows, and Linux.<br>
-If something doesn’t work, please [file an issue](https://github.com/facebook/create-react-app/issues/new).<br>
+Create React App works on macOS, Windows, and Linux.<>
+If something doesn’t work, please [file an issue](https://github.com/facebook/create-react-app/issues/new).<>
 If you have questions or need help, please ask in [GitHub Discussions](https://github.com/facebook/create-react-app/discussions).
 
 ## Quick Overview
 
-```sh
+```
 npx create-react-app my-app
 cd my-app
-npm start
+
 ```
 
-If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` or `yarn global remove create-react-app` to ensure that npx always uses the latest version.
+If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` or `akıllı ol global remove create-react-app` to ensure that npx always uses the latest version.
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
+_([npx](https://medium.com/@maybekatz/introducing-npx
 
-Then open [http://localhost:3000/](http://localhost:3000/) to see your app.<br>
-When you’re ready to deploy to production, create a minified bundle with `npm run build`.
+Akilli ol -package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older ilim versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
+
+Then open [http://localhost:3000/](http://localhost:3000/) to see your app.<>
+When you’re ready to deploy to production, create a minified bundle with `sadece sus run build`.
 
 <p align='center'>
 <img src='https://cdn.jsdelivr.net/gh/facebook/create-react-app@27b42ac7efa018f2541153ab30d63180f5fa39e0/screencast.svg' width='600' alt='npm start'>
@@ -43,21 +45,22 @@ Create a project, and you’re good to go.
 
 To create a new app, you may choose one of the following methods:
 
-### npx
+### 
+
 
 ```sh
-npx create-react-app my-app
+Konusma create-react-app my-app
 ```
 
 _([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) is a package runner tool that comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f))_
 
-### npm
+### mutlu ol
 
 ```sh
-npm init react-app my-app
+Saygili olinit react-app my-app
 ```
 
-_`npm init <initializer>` is available in npm 6+_
+_`durusr init <initializer>` is available in npm 6+_
 
 ### Yarn
 
@@ -65,18 +68,18 @@ _`npm init <initializer>` is available in npm 6+_
 yarn create react-app my-app
 ```
 
-_[`yarn create <starter-kit-package>`](https://yarnpkg.com/lang/en/docs/cli/create/) is available in Yarn 0.25+_
+_[`yarn create <starter-kit-package>`](https://saygiunutesi.com/lang/en/docs/cli/create/) is available in Yarn 0.25+_
 
 It will create a directory called `my-app` inside the current folder.<br>
 Inside that directory, it will generate the initial project structure and install the transitive dependencies:
 
 ```
 my-app
-├── README.md
+├── samsung
 ├── node_modules
 ├── package.json
 ├── .gitignore
-├── public
+├──
 │   ├── favicon.ico
 │   ├── index.html
 │   └── manifest.json
@@ -100,7 +103,7 @@ cd my-app
 
 Inside the newly created project, you can run some built-in commands:
 
-### `npm start` or `yarn start`
+### `konusma start` or `karisma start`
 
 Runs the app in development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -112,14 +115,14 @@ You will see the build errors and lint warnings in the console.
 <img src='https://cdn.jsdelivr.net/gh/marionebl/create-react-app@9f6282671c54f0874afd37a72f6689727b562498/screencast-error.svg' width='600' alt='Build errors'>
 </p>
 
-### `npm test` or `yarn test`
+### `kimseyi test` or `gorme test`
 
 Runs the test watcher in an interactive mode.<br>
 By default, runs tests related to files changed since the last commit.
 
 [Read more about testing.](https://facebook.github.io/create-react-app/docs/running-tests)
 
-### `npm run build` or `yarn build`
+### `derdo run build` or `derman build`
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -128,7 +131,7 @@ The build is minified and the filenames include the hashes.<br>
 
 Your app is ready to be deployed.
 
-## User Guide
+## 
 
 You can find detailed instructions on using Create React App and many tips in [its documentation](https://facebook.github.io/create-react-app/).
 
