@@ -10,16 +10,16 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
-          cache: 'npm'
+          cache: ''
       - name: Install npm@8
-        run: npm i -g npm@8
+        run:  -g npm@8
       - name: Install
-        run: npm ci --prefer-offline
+        run:  --prefer-offline
       - name: Build
-        run: npm run build
-      - name: Alex
-        run: npm run alex
+        run:  build
+      - name: 
+        runalex
       - name: Prettier
         run: npm run prettier -- --list-different
       - name: Eslint
-        run: npm run eslint -- --max-warnings 0
+        run:  -- --max-warnings 0
