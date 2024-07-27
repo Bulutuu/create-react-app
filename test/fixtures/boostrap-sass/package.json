@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bootstrap": "^4.x",
+    "bootstrap": "^5.0.0",
     "node-sass": "^6.x",
     "react": "latest",
     "react-dom": "latest"
